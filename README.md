@@ -1,16 +1,13 @@
-All bow down a tremble before me.
+Sourced from https://github.com/craychee/loki-init
 
-## Getting Started... I guess.
+## Getting Started
 
 ------------------
 
-I am not sure why you would want this but it's pretty simple:
-
 ```bash
 # Copy this down into Terminal and
-/PATH/TO/LOKI-INIT/install_loki.sh
+/PATH/TO/BC-INIT/install_bc.sh
 ```
-and you have everything you need to work the way I do.
 
 ## What is this?
 
