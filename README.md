@@ -1,4 +1,6 @@
-Sourced from https://github.com/craychee/loki-init
+Sourced from 
+- https://github.com/craychee/loki-init
+- https://github.com/froboy/durandal-init
 
 ## Getting Started
 
@@ -13,5 +15,4 @@ Sourced from https://github.com/craychee/loki-init
 
 ------------------
 
-You are looking at my `zsh` aliases, my `vim` and `tmux` configs, and list
-of necessities to get me developing quickly on a fresh install.
+Everything to get me developing quickly on a fresh install.
