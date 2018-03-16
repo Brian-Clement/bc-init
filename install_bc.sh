@@ -70,6 +70,7 @@ sudo chown -R $USER $HOME/.composer
 brew install ansible
 vagrant plugin install vagrant-hostmanager
 vagrant plugin install vagrant-auto_network
+vagrant plugin install vagrant-triggers
 
 # Set up PHP tools
 # https://philsturgeon.uk/php/2013/08/20/php-static-analysis-in-sublime-text/
